@@ -4,3 +4,4 @@ interface Color {
     blue: number;
 }
 declare let color: Color;
+export default color;

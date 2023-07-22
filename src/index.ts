@@ -5,7 +5,7 @@ interface Color {
 }
 
 let color: Color = {
-  red: 0,
+  red: 20,
   green: 0,
   blue: 0,
 };
